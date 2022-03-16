@@ -8,7 +8,7 @@ HECHO  XML - Cambiar el contenido del campo titulo según lo que vean en la imag
 HECHO  XML - Añadir como primer elemento de cada libro un campo <foto> para poder mostrar arriba en cada bloque la imagen facilitada
 HECHO  XML - Deberá validar contra el XSD facilitado. Para ello, si fuera necesario añadir campos, en cuyo caso también deberás mostrarlos al visualizar el XML en el navegador.
 CSS - Al visualizar el XML en el navegador, pinchando enmedio de dos elementos cambie el orden de visualización, o sea desde el último hasta el primero.
-HECHOrevisar  CSS - Al visualizar el XML en el navegador, al pasar el ratón sobre un título ésta se verá un 20% más grande.
+HECHO  CSS - Al visualizar el XML en el navegador, al pasar el ratón sobre un título ésta se verá un 20% más grande.
 HECHO  CSS - Al visualizar el XML en el navegador, al pinchar en una foto ésta se verá en blanco y negro
 HECHO  CSS - Al visualizar el XML en el navegador, al pinchar en una foto se verá una sombra (elige tú cómo prefieras hacer ese efecto).
 

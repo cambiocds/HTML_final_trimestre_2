@@ -34,7 +34,7 @@ h3{
     }
 }
 h2:hover{
-    font-size: 180%;
+    transform: scale(1.2);
 }
 img:hover{
     filter: grayscale(1);
